@@ -1,0 +1,17 @@
+{C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/1_1/nandspri.v} {1 {vlog -work work -stats=none {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/1_1/nandspri.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Nand2_pri
+-- Compiling module Nand3_pri
+
+Top level modules:
+	Nand2_pri
+	Nand3_pri
+
+} {} {}} {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/1_1/nand3.v} {1 {vlog -work work -stats=none {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/1_1/nand3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Nand3
+
+Top level modules:
+	Nand3
+
+} {} {}}
