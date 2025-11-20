@@ -1,0 +1,23 @@
+{C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/1_2/TBnand_3sta.v} {1 {vlog -work work -stats=none {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/1_2/TBnand_3sta.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TBNand_3sta
+
+Top level modules:
+	TBNand_3sta
+
+} {} {}} {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/1_2/NandBuf.v} {1 {vlog -work work -stats=none {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/1_2/NandBuf.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NandBuf
+
+Top level modules:
+	NandBuf
+
+} {} {}} {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/1_2/Nand_3sta.v} {1 {vlog -work work -stats=none {C:/Users/Asus/Desktop/university/term 3/logic circuit/CA/1_2/Nand_3sta.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inv
+-- Compiling module Nand_3sta
+
+Top level modules:
+	Nand_3sta
+
+} {} {}}
