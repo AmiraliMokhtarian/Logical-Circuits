@@ -1,0 +1,17 @@
+`timescale 1ns/1ns
+module DTB();
+    reg D,Re,clk;
+    wire Q;
+    DLR2 DT(.D(D), .Re(Re), .clk(clk), .Q(Q));
+    initial begin
+        #100;
+        {clk,D,Re}=3'b110; #100;
+        {clk,D,Re}=3'b111; #20;
+        {clk,D,Re}=3'b101; #20;
+        {clk,D,Re}=3'b111; #10;
+        {clk,D,Re}=3'b101; #2;
+        {clk,D,Re}=3'b001; #20;
+        {clk,D,Re}=3'b001; #100;
+        $finish;
+    end
+endmodule
